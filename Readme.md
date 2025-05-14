@@ -1,6 +1,6 @@
-# Forever E-Commerce Website
+# BuyNest E-Commerce Website
 
-Forever is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides users with a seamless shopping experience and includes powerful features such as product management, authentication, and a responsive UI designed with Tailwind CSS. The state is managed using Redux for efficient data flow and user experience.
+BuyNest is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides users with a seamless shopping experience and includes powerful features such as product management, authentication, and a responsive UI designed with Tailwind CSS. The state is managed using Redux for efficient data flow and user experience.
 
 ---
 
